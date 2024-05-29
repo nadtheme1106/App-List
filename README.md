@@ -33,7 +33,7 @@ Solo Sync is a community-driven platform designed to empower solo developers by 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/nadtheme1106/App-List.git
+   git clone https://github.com/nadtheme1106/SoloSync.git
    cd App-List
    ```
 
