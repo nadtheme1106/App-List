@@ -16,4 +16,3 @@
 # Declare files that should always have CRLF line endings.
 *.bat text eol=crlf
 *.cmd text eol=crlf
-

@@ -13,3 +13,10 @@ Thumbs.db
 # Compiled files
 *.pyc
 __pycache__/
+
+# IDE directories
+.idea/
+.vscode/
+
+# Environment variable files
+.env
