@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+build/
+dist/
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.pyc
+__pycache__/
